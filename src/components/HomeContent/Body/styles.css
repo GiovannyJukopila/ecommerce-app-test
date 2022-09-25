@@ -1,0 +1,17 @@
+.center-class {
+    padding: 20px 20px 20px 20px;
+    text-align: center;
+    font-family: ui-rounded;
+}
+.center-title {
+    padding: 40px;
+}
+.center-class-back{
+    padding: 20px 20px 20px 20px;
+    text-align: center;
+    font-family: ui-rounded;
+    background-color: rgba(174, 178, 229, 0.607);
+}
+.cl-1{
+    padding: 20px;
+}
